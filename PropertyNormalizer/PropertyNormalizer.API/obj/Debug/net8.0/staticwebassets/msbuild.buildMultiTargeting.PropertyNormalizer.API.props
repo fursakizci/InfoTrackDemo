@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/PropertyNormalizer.API.props" />
+</Project>
